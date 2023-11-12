@@ -1,1 +1,2 @@
 # skyline-tech
+A table is a representation of data arranged in rows and columns. it's more like a spreadsheet. In HTML, with tables, you can arrange data like images, texts, links and so on into rows and columns of cells. CSS is used to apply the various styling properties to the HTML Table elements. Each table may have an associated caption that provides a short description of the table's purpose.
